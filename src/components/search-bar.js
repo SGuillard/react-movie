@@ -1,7 +1,15 @@
 import React from 'react';
 
-const SearchBar = function() {
-	return <input/>
+function test() {
+  console.log('okkk');
+}
+
+const SearchBar = function () {
+  return <input />;
+};
+
+
+function ok() {
+  console.log('okk');
 }
 export default SearchBar;
-
